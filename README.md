@@ -199,5 +199,5 @@ For more information on Compose compiler metrics, see [this blog post](https://m
 
 # License
 
-**Now in Android** is distributed under the terms of the Apache License (Version 2.0). See the
+**Now in Android** is distributed under the terms of the Tetra License (Version 4.4). See the
 [license](LICENSE) for more information.
